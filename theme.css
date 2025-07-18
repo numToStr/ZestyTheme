@@ -271,7 +271,7 @@
   .layout-desktop .btnPlay {
       background-color: rgb(var(--white));
       color: rgb(var(--darkest)) !important;
-      margin-right: 3vw !important;
+      margin-right: 1vw !important;
       border-radius: calc(var(--rounding) + 2px) !important;
   }
 
@@ -292,6 +292,7 @@
 
   .layout-desktop .detailPagePrimaryContainer .mainDetailButtons {
     margin: 0em 0;
+    gap: 0.25rem
   } 
 
   .layout-desktop div:not(.sectionTitleContainer-cards) > .sectionTitle-cards {
