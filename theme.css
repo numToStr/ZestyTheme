@@ -434,9 +434,9 @@
       margin-top: 4px !important; 
       margin-bottom: 4px !important; 
   }
-  .navMenuOption,
-  .navMenuOption-selected {
-      width: 86% !important;
+
+  .navMenuOption {
+    padding: 1em !important;
   }
 
   .navMenuOption:hover {
