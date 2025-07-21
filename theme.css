@@ -2604,6 +2604,10 @@
     width: fit-content !important;
   }
 
+  .itemsContainer.collectionItemsContainer {
+    padding: unset !important;
+  }
+
   .layout-desktop .itemsContainer, .layout-desktop .emby-tabs-slider {
 	  margin: 0 !important;
   }
